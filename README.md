@@ -4,34 +4,30 @@
 
 <h2>Cool Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Algorithmic Trading Strategies</b>
+  - [Agent-Based Stock Trading](https://github.com/rishig77/agent_based_stock_trading)
+  - [Quantopian Algo Trading](https://github.com/rishig77/quantopian_algo_trading)
+  - [Educational Series on Basic Algo Trading](https://github.com/rishig77/series_algo_trading)
+- <b>Portfolio Management</b>
+  - [International Portfolio Allocation](https://github.com/rishig77/portfolio_allocation_case_study)
+  - [Pairs Trading Strategy(KO & PEP](https://github.com/rishig77/pairs_trading_strategy)
+- <b>Machine Learning in Finance</b>
+  - [Momentum Spillover Effect with GNN](https://github.com/rishig77/momentum_spillover_effect_GNN)
+  - [Stock Forecasting Multi-Step Model](https://github.com/rishig77/stock_multi_step_model)
+- <b>Experimental Projects</b>
+  - [Image Classification Trial](https://github.com/rishig77/image_classification_trial)
+  -   Applying image classification to candlestick charts, enhancing trading strategies with deep learning pattern recognition
+
 
 
 
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RishiGottimukkala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/rishi-gottimukkala-107783234/
 
 <!--
 -->
