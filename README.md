@@ -15,10 +15,10 @@
   - [Momentum Spillover Effect with GNN](https://github.com/rishig77/momentum_spillover_effect_GNN)
   - [Stock Forecasting Multi-Step Model](https://github.com/rishig77/stock_multi_step_model)
 - <b>Experimental Projects</b>
-  - [Image Classification Trial](https://github.com/rishig77/image_classification_trial)
-  -   Applying image classification to candlestick charts, enhancing trading strategies with deep learning pattern recognition
+  - [Image Classification Trial](https://github.com/rishig77/image_classification_trial) <i>(trying to apply image classification's pattern recognition to candlestick charts)</i>
+  
 
-
+Check out my blog on financial literacy: [Wealthy Waters](https://wealthywaters.substack.com)
 
 
 <h2>Connect with me:</h2>
