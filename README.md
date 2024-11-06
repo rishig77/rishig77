@@ -18,10 +18,6 @@
   - [Image Classification Trial](https://github.com/rishig77/image_classification_trial) <i>(trying to apply image classification's pattern recognition to candlestick charts)</i>
   
 <br />
-<pre>
-
-</pre>
-
 Check out my blog on financial literacy: [Wealthy Waters](https://wealthywaters.substack.com)
 
 
