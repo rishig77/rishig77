@@ -2,7 +2,7 @@
   
  
 
-<h2>Cool Projects:</h2>
+<h2>😎 Cool Projects:</h2>
 
 - <b>Algorithmic Trading Strategies</b>
   - [Agent-Based Stock Trading](https://github.com/rishig77/agent_based_stock_trading)
